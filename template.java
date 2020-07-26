@@ -4,7 +4,7 @@ import java.math.*;
 import java.lang.*;
 import java.util.concurrent.*;
 
-public class github {
+public class Solution {
 	static boolean GOT = true;
 	static void solve(long time) throws IOException {
 		//start writing your code here...
